@@ -17,7 +17,7 @@ This system is designed to clean, process, and analyze the operational sales dat
 ## Executive Summary & Core KPIs
 To demonstrate the data analytics capabilities, several advanced business intelligence metrics were calculated. Below are the core Key Performance Indicators (KPIs) summarizing the restaurant's overall performance:
 
-![KPI Overview](images/newplot_5.png)
+![KPI Overview](newplot_5.png)
 
 ---
 
@@ -27,23 +27,23 @@ The dashboard was built using Plotly to provide interactive, deep-dive insights 
 
 ### 1. Revenue by Category
 A breakdown of how different menu categories (Main Dishes, Starters, Desserts, etc.) contribute to the total revenue.
-![Revenue by Category](images/newplot.png)
+![Revenue by Category](newplot.png)
 
 ### 2. Monthly Revenue Trend
 A time-series analysis monitoring the trajectory of total operational revenue over time to capture seasonality.
-![Monthly Revenue Trend](images/newplot_1.png)
+![Monthly Revenue Trend](newplot_1.png)
 
 ### 3. Top Selling Items
 Evaluating menu performance by quantity sold, highlighting the highest-demand items.
-![Top Selling Items](images/newplot_2.png)
+![Top Selling Items](newplot_2.png)
 
 ### 4. Orders by Payment Method
 Visualizing transaction metrics across Cash, Digital Wallets, and Credit Cards to optimize operational cash flow.
-![Payment Methods](images/newplot_3.png)
+![Payment Methods](newplot_3.png)
 
 ### 5. Top 10 Valued Customers
 Tracking the most valuable customers by order volume and total revenue generated.
-![Top 10 Customers](images/newplot_4.png)
+![Top 10 Customers](newplot_4.png)
 
 ---
 
